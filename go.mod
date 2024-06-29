@@ -1,4 +1,4 @@
-module git@github.com:Chen-Yuan-Lai/blog.git
+module github.com:Chen-Yuan-Lai/blog.git
 
 go 1.18
 
